@@ -12,8 +12,8 @@
 
 ## Plan de aterrizaje
 - Paso 1: Verificar la trayectoria de descenso y la velocidad de entrada antes de iniciar la maniobra.
-- Paso 2: Desplegar los paracaídas y encender los retrocohetes a la altitud acordada.
-- Paso 3: Confirmar el contacto con la superficie y reportar el estado de la tripulación al centro de control.
+- Paso 2: Desplegar los paracaídas y encender los retrocohetes a la altitud acordada; si los retrocohetes fallan, activar el sistema de respaldo.
+- Paso 3: Confirmar el contacto con la superficie y reportar el estado de la tripulación al centro de control, usando un canal de comunicación alterno si el clima dificulta la señal.
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el aterrizaje?
